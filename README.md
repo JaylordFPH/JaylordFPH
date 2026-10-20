@@ -19,7 +19,7 @@ JavaScript, TypeScript, Python, Node.js, Express.js, PostgreSQL, Git, and REST A
 
 ## Collaborative academic projects
 
-These projects are hosted in a collaborator's account. They are shared academic work, rather than repositories I own individually.
+These shared academic projects are hosted in a collaborator's account.
 
 - [Point-of-sale system](https://github.com/Joshclxx/POS-System)
 - [School management capstone](https://github.com/Joshclxx/Capstone)
